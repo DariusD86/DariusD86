@@ -1,4 +1,4 @@
-<h1>Hi, I'm Darius, an <a href="www.linkedin.com/in/darius-dillon-117b567a">IT Professional</a>☺</h1>
+<h1>Hi, I'm Darius, an <a href="https://www.linkedin.com/in/darius-dillon-117b567a/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
